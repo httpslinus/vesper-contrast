@@ -1,9 +1,7 @@
-![Vesper Preview](https://cdn.rauno.me/vesper-og.png)
+# Vesper Contrast
 
-# Vesper
+Peppermint and orange flavored dark theme for VSCode with increased contrast.
 
-Peppermint and orange flavored dark theme for VSCode.
-
-<a href="https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper"><strong>Install →</strong></a>
+Based on the [Vesper](https://github.com/raunofreiberg/vesper) theme by Rauno Freiberg.
 
 > Disclaimer: This was hacked together following a tutorial. I have zero experience building themes. Made for personal usage. Not thoroughly tested at all, might have broken edge cases.
